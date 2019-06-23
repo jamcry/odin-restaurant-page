@@ -33,11 +33,9 @@ function renderTabContent(tab) {
 
 // Makes the given tab active and others inactive
 function toggleTabActivityTo(tab) {
-  console.time('timey');
     navTabs.forEach((t) => {
-      // Make previous tab inactive
+      // Make previous active tab inactive
       if (t.className.includes('active')) t.classList.remove('active');
     });
-  console.timeEnd('timey');
     tab.className += " " + "active";
 }
