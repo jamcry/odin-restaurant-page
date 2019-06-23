@@ -1,5 +1,5 @@
 const homeRaw = `
-  <h1>Home</h1>
+  <h1 class="cover-heading">Home</h1>
   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1532522430i/26026311._SX540_.jpg" alt="Restaurant photo">
   <p>Welcome to the restaurant at the end of the universe. Also known as Milliways.</p>
   <p>This restaurant differs from the rest, because it is at the end of the universe!</p>

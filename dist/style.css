@@ -63,7 +63,7 @@ body {
   font-weight: 700;
   color: rgba(255, 255, 255, .5);
   background-color: transparent;
-  border-bottom: .25rem solid transparent;
+  border-bottom: .25rem solid #4a4a4a;
 }
 
 .nav-masthead .nav-link:hover,
