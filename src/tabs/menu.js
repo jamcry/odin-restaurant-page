@@ -1,7 +1,7 @@
 const menuRaw = `
-  <h1>Menu</h1>
+  <h1 class="cover-heading">Menu</h1>
   <img src="" alt="">
-  <p>You can find our menu here.</p>
+  <p class="lead">You can find our menu here.</p>
 `;
 
 export default menuRaw;
